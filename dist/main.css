@@ -1,0 +1,19 @@
+body {
+  background-color: aquamarine; }
+
+button {
+  border: 1px solid black;
+  padding: 10px 10px;
+  font-size: 2rem;
+  color: ghostwhite;
+  border-radius: 10px; }
+
+#redButton {
+  background-color: red; }
+
+#greenButton {
+  background-color: forestgreen; }
+
+#blueButton {
+  background-color: blue; }
+
